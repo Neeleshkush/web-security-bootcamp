@@ -1,3 +1,1 @@
-body{
-    background: pink;
-}
+alert("Hello, World!");
