@@ -1,0 +1,13 @@
+fieldset{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    background-color:pink;
+    padding:20px;
+}
+
+ul{
+    display:flex;
+    gap:20px;
+    list-style:none;
+}
