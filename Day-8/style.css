@@ -1,0 +1,14 @@
+div>p:nth-child(1){
+    color:red;
+    background-color:yellow;
+}
+div>p{
+    color:white;
+    background-color:blue;
+}
+p:first-child:hover{
+    color:black;
+}
+p:hover{
+    color: greenyellow;
+}
